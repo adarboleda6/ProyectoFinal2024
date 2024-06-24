@@ -1,9 +1,8 @@
----
+
 title: "Filogenia del gen TP53 y sus ortólogos en primates"
 author: "Adriana Arboleda"
 date: "2024-06-24"
-output: html_document
----
+
 
  
 
