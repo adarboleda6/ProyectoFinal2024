@@ -1,0 +1,177 @@
+    1  pwd
+    2  cd Desktop/
+    3  ls
+    4  cd proyectofinal2024/
+    5  ls
+    6  cat README.md 
+    7  nano README.md 
+    8  cat README.md
+    9  cat README.md 
+   10  cat README.md 
+   11  git status
+   12  git add .
+   13  git status
+   14  git commit
+   15  git status
+   16  git remote
+   17  git remote add origin
+   18  git remote add origin git@github.com:adarboleda6/ProyectoFinal2024.git
+   19  git remote -v
+   20  git push origin main
+   21  git push origin main
+   22  git push origin main
+   23  git pull
+   24  git push origin main
+   25  git pull
+   26  git status
+   27  git add .
+   28  git commit
+   29  git remote
+   30  ssh -T -p 443 git@ssh.github.com
+   31  ssh -T -p 443 git@ssh.github.com
+   32  nano ~/.ssh/config
+   33  ssh -T -p 443 git@ssh.github.com
+   34  ssh -T -p 443 git@ssh.github.com
+   35  git push origin main
+   36  git push origin main
+   37  git push origin main
+   38  git pull
+   39  nano README.md 
+   40  git push origin main
+   41  git status
+   42  git add .
+   43  git status
+   44  git commit
+   45  git push origin main
+   46  git pull
+   47  git-pull(1)
+   48  git-pull (1)
+   49  git pull (1)
+   50  git pull 1
+   51  git pull  git branch --set-upstream-to=origin/
+   52  git branch --set-upstream-to=origin/
+   53  git pull
+   54  git pull main
+   55  git pull origin main
+   56  git status
+   57  git add .
+   58  git commit -a
+   59  git pull origin main
+   60  git pull origin main
+   61  rm -r .Rhistory
+   62  git status
+   63  git commit -a
+   64  git status
+   65  git push origin main
+   66  rm -i README.md 
+   67  ls
+   68  rm -i Historialclase.txt 
+   69  git status
+   70  git add .
+   71  git commit -a
+   72  ls
+   73  git push origin main
+   74  ls
+   75  cd ..
+   76  ls
+   77  cd back
+   78  cd backup/
+   79  pwd
+   80  ls
+   81  cd ..
+   82  ls 
+   83  cd pto
+   84  cd proyectofinal2024/
+   85  ls
+   86  mv /c/Users/Adriana/Desktop/backup/README.md  ~/Desktop/proyectofinal2024
+   87  ls
+   88  cat README.md 
+   89  nano README.md 
+   90  cat README.md 
+   91  git status
+   92  git add .
+   93  git commit -a
+   94  git commit -a
+   95  git push origin main 
+   96  nano README.md 
+   97  git add .
+   98  git commit -a
+   99  git push origin main 
+  100  nano README.md 
+  101  git add .
+  102  git commit -a
+  103  git push origin
+  104  git push origin main
+  105  nano scripts/scripts_readme.txt 
+  106  cd scripts/
+  107  ls
+  108  wget https://github.com/iqtree/iqtree2/releases/download/v2.2.0/iqtree-2.2.0-Linux.tar.gz
+  109  cd
+  110  ls
+  111  cd Desktop/
+  112  ls
+  113  iqtree2 -s  ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta -B 100
+  114  LS
+  115  cd proyectofinal2024/
+  116  ls
+  117  iqtree2 -s scripts/TP53_refseq_transcript.fasta -B 100
+  118  iqtree2 -s scripts/TP53_refseq_transcript.fasta -B 100
+  119  iqtree2 -s scripts/TP53_refseq_transcript.fasta -B 100
+  120  iqtree2 --version
+  121  cd iqtree-2.2.0-Linux/
+  122  ls
+  123  iqtree2 --version
+  124  iqtree2 --version
+  125  cd bin/
+  126  ls
+  127  iqtree2 --version
+  128  ls
+  129  ./iqtree2 --version
+  130  cd ..
+  131  cd ..
+  132   ls
+  133  ./iqtree2 --version
+  134   ls
+  135  cd iqtree-2.0.6-Windows32/
+  136  ls
+  137  cd bin/
+  138  ./iqtree2
+  139  iqtree2 -s  ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta -B 100
+  140  ./iqtree2 -s  ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta -B 100
+  141  ./iqtree2 -s  ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta -B 1000
+  142  ./iqtree2 -s  ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta
+  143  ./iqtree2 -S ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta
+  144  ./iqtree2 -s  ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta
+  145  ls
+  146  ./iqtree2 -s  ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta -B 1000
+  147  cat C:/Users/Adriana/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta.log
+  148  ./iqtree2 -s ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta -B 1000
+  149  ./iqtree2 -s ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta -B 1000 -nt 1
+  150  ./iqtree2 -nt1 -s ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta -B 1000
+  151  ./iqtree2 -s ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta -B 1000 -nt1
+  152  ./iqtree2 -s ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta -B 1000
+  153  ./iqtree2 -s ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta -B 1000 -nt
+  154  ./iqtree2 -s ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta -B 1000 -nt AUTO
+  155  cat ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta
+  156  head ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta
+  157  ./iqtree2 -s ~/Desktop/proyectofinal2024/scripts/TP53_refseq_transcript.fasta -B 1000 -nt AUTO
+  158  mv C:/Users/Adriana/Downloads/align_TP53.aln-clustalw ~/Desktop/proyectofinal2024/scripts
+  159  cd ..
+  160  cd ..
+  161  ls scripts/
+  162  ./iqtree2 -s ~/Desktop/proyectofinal2024/scripts/align_TP53.aln-clustalw -B -1000
+  163  cd iqtree-2.0.6-Windows32/
+  164  cd bin/
+  165  ls
+  166  ./iqtree2 -s ~/Desktop/proyectofinal2024/scripts/align_TP53.aln-clustalw -B -1000
+  167  ./iqtree2 -s ~/Desktop/proyectofinal2024/scripts/align_TP53.aln-clustalw -B -1001
+  168  ./iqtree2 -s ~/Desktop/proyectofinal2024/scripts/align_TP53.aln-clustalw -B -2000
+  169  ./iqtree2 -s ~/Desktop/proyectofinal2024/scripts/align_TP53.aln-clustalw -B >= 1000
+  170  ./iqtree2 -s ~/Desktop/proyectofinal2024/scripts/align_TP53.aln-clustalw -B 1000
+  171  s
+  172  ls
+  173  cd ..
+  174  cd ..
+  175  cd scripts/
+  176  ls
+  177  history > historial.txt
