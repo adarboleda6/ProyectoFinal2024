@@ -1,0 +1,157 @@
+    1  cd Desktop/
+    2  #git clone repositorio
+    3  mkdir proyectofinal2024
+    4  cd proyectofinal2024/
+    5  git init
+    6  nano README.md
+    7  git add README.md 
+    8  git status
+    9  git commit -m "Iniciando preguntas del proyecto"
+   10  ls README.md 
+   11  mkdir results
+   12  mkdir data
+   13  mkdir scripts
+   14  ls
+   15  cd resu
+   16  cd results/
+   17  nano results_readme.txt
+   18  cd ..
+   19  ls
+   20  ls results/
+   21  cd data
+   22  nano data_readme.txt
+   23  ls
+   24  cd ..
+   25  cd scripts/
+   26  nano scripts_readme.txt
+   27  cd ..
+   28  ls results/ data/ scripts/
+   29  echo "hola" data_readme.txt 
+   30  cat data_readme.txt
+   31  cd data/
+   32  ls
+   33  cat data_readme.txt 
+   34  echo "hola" data_readme.txt 
+   35  cat data_readme.txt 
+   36  nano data_readme.txt 
+   37  echo "hola" data_readme.txt
+   38  echo "hola" data_readme.txt
+   39  cat data_readme.txt 
+   40  ls -f
+   41  cd ..
+   42  ls -f */
+   43  echo "hola" > data_readme.txt
+   44  cat data_readme.txt 
+   45  nano data_readme.txt 
+   46  echo "Este archivo contendrá la data del proyecto" > data_readme.txt
+   47  cat data_readme.txt 
+   48  echo "Iniciando el proyecto" >> data_readme.txt
+   49  cat data_readme.txt 
+   50  git status
+   51  git add data/* results/* scripts/* 
+   52  git status
+   53  git add data_readme.txt 
+   54  git status
+   55  git commit
+   56  ls
+   57  mv data_readme.txt data/
+   58  ls
+   59  data
+   60  cd data/
+   61  ls
+   62  cat data_readme.txt 
+   63  cd ..
+   64  git commit 
+   65  git commit
+   66  git remote https://github.com/adarboleda6/ProyectoFinal2024.git
+   67  git remote add origin git@github.com:adarboleda6/ProyectoFinal2024.git
+   68  git remote -v
+   69  ls -al ~/.ssh
+   70  scp  ~/Desktop/proyectofinal2024/ origin main
+   71  git push origin main
+   72  ssh -T git@github.com:adarboleda6/ProyectoFinal2024.git
+   73  ssh git@github.com:adarboleda6/ProyectoFinal2024.git
+   74  ls -al ~/.ssh
+   75  ssh git@github.com:adarboleda6/ProyectoFinal2024.git
+   76  ssh git@github.com:adarboleda6/ProyectoFinal2024.git
+   77  ssh -T git@github.com:adarboleda6/ProyectoFinal2024.git
+   78  ssh-keygen -t ed25519 -C "adarboleda@pude.edu.ec"
+   79  pwd
+   80  ssh-keygen -t ed25519 -C "adarboleda@pude.edu.ec"
+   81  ssh-keygen -t ed25519 -C "adarboleda@pude.edu.ec" -f /c/Users/Adriana/Desktop/proyectofinal2024/id_ed25519
+   82  ls -al ~/.ssh
+   83  ssh -T  git@github.com:adarboleda6/ProyectoFinal2024.git
+   84  ssh -T git@github.com:adarboleda6/ProyectoFinal2024.git
+   85  ssh git@github.com:adarboleda6/ProyectoFinal2024.git
+   86  ssh -T p443 git@github.com:adarboleda6/ProyectoFinal2024.git
+   87  ssh -T p443 git@github.com:adarboleda6/ProyectoFinal2024.git
+   88  ssh -T p443 git@github.com:adarboleda6/ProyectoFinal2024.git
+   89  ls -al ~/.ssh
+   90  ssh -T git@github.com:adarboleda6/ProyectoFinal2024.git
+   91  ssh -T p 443 git@github.com:adarboleda6/ProyectoFinal2024.git
+   92  ssh -T p443 git@github.com:adarboleda6/ProyectoFinal2024.git
+   93  ssh -T p git@github.com:adarboleda6/ProyectoFinal2024.git
+   94  ls -al ~/.ssh
+   95  cat id_ed25519.pub
+   96  ssh -T -p 443 git@github.com:adarboleda6/ProyectoFinal2024.git
+   97  git push -u origin main
+   98  git push -u origin main
+   99  ssh -T -p 443 git@github.com:adarboleda6/ProyectoFinal2024.git
+  100  git remote add origin git@github.com:adarboleda6/ProyectoFinal2024.git
+  101  git commit
+  102  git remote https://github.com/adarboleda6/ProyectoFinal2024.git
+  103  git remote add origin git@github.com:adarboleda6/ProyectoFinal2024.git
+  104  git push -u origin main
+  105  cat id_ed25519
+  106  cat id_ed25519.pub
+  107  ssh -T -p 443  git@github.com:adarboleda6/ProyectoFinal2024.git
+  108  ssh -T -p 443  git@github.com
+  109  ssh -T -p 443  git@github.com:adarboleda6/ProyectoFinal2024.git
+  110  git push origin main
+  111  git remote -v
+  112  git push origin main
+  113  ssh -T -p 443  git@github.com
+  114  cat id_ed25519.ppub
+  115  cat id_ed25519.pub
+  116  ssh -T -p 443  git@github.com
+  117  ls -al ~/.ssh
+  118  ssh -T git@github.com
+  119  ssh -T -p 443  git@github.com
+  120  cat id_ed25519.pub
+  121  ssh -T -p 443  git@github.com
+  122  ssh -T -p 443 git@github.com:adarboleda6/ProyectoFinal2024.git
+  123  ssh -T -p 443 "git@github.com:adarboleda6/ProyectoFinal2024.git"
+  124  git statu
+  125  git status
+  126  git add .
+  127  git status
+  128  git commit -m "proyecto final"
+  129  git status
+  130  git remote
+  131  git remote -v
+  132  git push origin main
+  133  ssh -T -p 443  git@github.com
+  134  ssh -T -p 443 git@ssh.github.com
+  135  ssh -T -p 443 git@ssh.github.com
+  136  nano ~/.ssh/config
+  137  ls
+  138  pwd
+  139  nano ~/.ssh/config
+  140  nano ~/.ssh/config
+  141  ssh -T -p 443 git@ssh.github.com
+  142  ssh -T -p 443 git@ssh.github.com
+  143  nano ~/.ssh/config
+  144  ssh -T -p 443 git@ssh.github.com
+  145  git remote -v
+  146  ssh -T -p 443 git@ssh.github.com
+  147  ssh -T -p 443 git@ssh.github.com
+  148  ssh -T -p 443 git@ssh.github.com
+  149  ssh -T -p 443 git@ssh.github.com
+  150  ssh -T git@ssh.github.com
+  151  ssh -T -p 443 git@ssh.github.com
+  152  cat id_ed25519.pub 
+  153  ssh -T -p 443 git@ssh.github.com
+  154  ssh -T -p 443 git@ssh.github.com
+  155  ssh -T -p 443 git@ssh.github.com
+  156  history > LLAVE.txt
+  157  history > LLAVE.txt
