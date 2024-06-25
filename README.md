@@ -25,6 +25,9 @@ https://github.com/rambaut/figtree/releases
 
 ![image](https://github.com/adarboleda6/ProyectoFinal2024/assets/171621900/0e881129-8273-482b-a683-8172145533ac)
 
+Para alinear las secuencias obtenidas se usó el siguiente link:
+
+https://www.ebi.ac.uk/jdispatcher/msa/muscle
 
 
 Referencias Bibliográficas
