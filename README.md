@@ -14,12 +14,15 @@ Para realizar el árbol filogenético, se uso un solo script que puede ser encon
 Es necesario instalar los siguientes programas para ejecutar el script de manera correcta. 
 
 https://gitforwindows.org/
+
 ![image](https://github.com/adarboleda6/ProyectoFinal2024/assets/171621900/2a2b371e-6bd0-4cd9-a128-21d565a5e315)
 
 http://www.iqtree.org/
+
 ![image](https://github.com/adarboleda6/ProyectoFinal2024/assets/171621900/e4b65a77-fb16-4d0d-a813-6cc4a72708cd)
 
 https://github.com/rambaut/figtree/releases
+
 ![image](https://github.com/adarboleda6/ProyectoFinal2024/assets/171621900/0e881129-8273-482b-a683-8172145533ac)
 
 
