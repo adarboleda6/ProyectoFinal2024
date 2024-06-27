@@ -9,6 +9,10 @@ Este documento contiene información sobre el Proyecto Final de Bioinformática.
 
 #### Flujo de trabajo
 
+1. Las secuencias de los gener ortologos fueron obtenidas en la página del ncbi y fueron descargadas en formato FASTA
+2. Una vez obtenidas las secuencias, fueron alineadas en muscle https://www.ebi.ac.uk/jdispatcher/msa/muscle (Pearson/FASTA) y Para alinear las secuencias obtenidas se usó el siguiente link: https://www.ebi.ac.uk/jdispatcher/msa/muscle. Se deben descargar las secuencias alineadas y correrlas con iqtree2 en Bash.
+
+
 Para realizar el árbol filogenético, se uso un solo script que puede ser encontrado en la carpeta scripts. 
 
 Es necesario instalar los siguientes programas para ejecutar el script de manera correcta. 
@@ -24,10 +28,6 @@ http://www.iqtree.org/
 https://github.com/rambaut/figtree/releases
 
 ![image](https://github.com/adarboleda6/ProyectoFinal2024/assets/171621900/0e881129-8273-482b-a683-8172145533ac)
-
-Para alinear las secuencias obtenidas se usó el siguiente link:
-
-https://www.ebi.ac.uk/jdispatcher/msa/muscle
 
 
 Referencias Bibliográficas
